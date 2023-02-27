@@ -1,4 +1,4 @@
-# Impact of Covid-19 Lockdowns on Ether
+# Impact of Covid-19 Lockdowns on Ether (May 2022)
 
 An examination of the Spot and Futures prices of Ether (cryptocurrency of the Ethereum blockchain) during the onset of Covid-19 lockdowns in March 2020.
 
